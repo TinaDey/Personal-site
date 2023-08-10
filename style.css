@@ -1,0 +1,19 @@
+.profile-pic{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#EB-garamond{
+    font-family: 'EB Garamond', serif;
+}
+#roboto-condensed{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.b-color{
+    background-color: #ADC4CE;
+}
+.project-pic{
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+}
